@@ -1,0 +1,9 @@
+absl-py
+dm_control==0.0.403778684
+gtimer
+gym
+matplotlib
+mujoco-py<2.2,>=2.1
+opencv-python
+python-dateutil
+tensorboardX
